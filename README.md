@@ -1,16 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=180&section=header&text=Prince%20Badsiwal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Edge%20AI%20%7C%20Full-Stack%20Web%20%7C%20Systems%20Automation&descSize=18&descAlignY=62&descColor=93C5FD" alt="Prince Badsiwal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=180&section=header&text=Prince%20Badsiwal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Edge%20AI%20%7C%20Full-Stack%20Web%20%7C%20Systems%20%26%20DevSecOps&descSize=18&descAlignY=62&descColor=93C5FD" alt="Prince Badsiwal Header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=On-Device+AI+%26+Mobile+LLMs+(Google+LiteRT);Full-Stack+Web+Developer+(React+19+%7C+Next.js+15+%7C+Vite);Python+Systems+Automation+%26+Reverse+Engineering;Open-Source+Builder+%26+Tech+Explorer" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=On-Device+AI+%26+Mobile+LLMs+(Google+LiteRT);Full-Stack+Web+Developer+(React+19+%7C+Next.js+16+%7C+Vite);Certified+DevSecOps+%26+AWS+Cloud+Practitioner;Open-Source+Builder+%26+Systems+Explorer" alt="Typing Intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://badsiwal.my-style.in/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Website-badsiwal.my--style.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
+  </a>
+  <a href="https://linkedin.com/in/prince-badsiwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince_Badsiwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/PrinceBad?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/PrinceBad?color=EAB308&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" />
@@ -30,12 +33,26 @@
 
 ### ⚡ About Me
 
-I am a **Systems & Full-Stack Developer** passionate about bringing intelligence to the edge and crafting high-speed, zero-bloat client utilities.
+I am a **Systems & Full-Stack Developer** passionate about bringing intelligence to the edge, automating infrastructure, and crafting high-speed, zero-bloat software utilities.
 
-* 🧠 **On-Device AI**: Running offline quantized LLMs on Android hardware with **Google AI Edge LiteRT** & **Jetpack Compose**.
-* 🌐 **High-Performance Web**: Building reactive web engines using **React 19, Next.js 15, Vite, and Vector jsPDF rendering**.
-* 🛠️ **System Utilities**: Engineering zero-dependency automation scripts bridging desktop operating systems with low-level Android ADB/Fastboot protocols.
+* 🧠 **On-Device AI & Edge Computing**: Quantized LLM deployment on Android hardware with **Google AI Edge LiteRT** & **Jetpack Compose**.
+* 🌐 **High-Performance Web**: Reactive web engines using **React 19, Next.js 16, Vite, and Vector jsPDF rendering**.
+* 🛡️ **DevSecOps & Cloud Infrastructure**: Certified hands-on AWS infrastructure, CI/CD pipeline automation, and DNS-level network security filtering (**Pi-hole / AdGuard**).
+* 🛠️ **Systems Administration & Forensics**: Managed 50+ client systems maintaining an **~85% First-Contact Resolution (FCR)**; recovered **3+ TB** of corrupted client data.
+* 📱 **Mobile OS & Firmware Labs**: Low-level firmware flashing, FRP recovery, and alternative mobile OS deployments (**PostmarketOS, Ubuntu Touch, Termux**).
 * 🤝 **Active Community Member**: Regular participant at **PyDelhi** and **GDG Noida**.
+
+---
+
+### 🏆 Professional Certifications & Honors
+
+| Certification / Honor | Issuer / Organization | Focus Area & Distinctions |
+| :--- | :--- | :--- |
+| **DevSecOps Certified (Grade 'S' — 94/108)** | *Kyndryl & NIELIT* | 120-Hr Program in CI/CD, AWS Cloud Infrastructure & App Pipelines |
+| **CHMT 'O' Level (Batch Topper — 1st Rank)** | *NIELIT New Delhi* | Hardware Architecture, Component Diagnostics & Systems Engineering |
+| **Google Gemini Educator Certified** | *Google* | Prompt Engineering, Agentic Workflows & Enterprise AI Productivity |
+| **Junior Software Developer** | *Skill India / NASSCOM* | Software Development Lifecycle (SDLC) & Logic Architecture (75.3% Score) |
+| **'O' Level Information Technology** | *NIELIT New Delhi* | Operating Systems, Computer Networks & Foundational Computer Science |
 
 ---
 
@@ -60,7 +77,7 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 
 <p align="center">
   <b>Tools, Platforms & Systems</b><br/>
-  <img src="https://skillicons.dev/icons?i=linux,androidstudio,git,github,vscode,nodejs,express,fastapi&perline=8&theme=dark" alt="Tools and Systems" />
+  <img src="https://skillicons.dev/icons?i=linux,androidstudio,git,github,aws,docker,vscode,nodejs,express,fastapi&perline=10&theme=dark" alt="Tools and Systems" />
 </p>
 
 ---
@@ -74,8 +91,10 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 
 ---
 
-### 📬 Connect
+### 📬 Connect & Collaborate
 * 🌐 **Live Website & Portfolio**: [badsiwal.my-style.in](https://badsiwal.my-style.in/)
+* 💼 **LinkedIn Profile**: [linkedin.com/in/prince-badsiwal](https://linkedin.com/in/prince-badsiwal)
+* 🐙 **GitHub Profile**: [github.com/PrinceBad](https://github.com/PrinceBad)
 
 ---
 

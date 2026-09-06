@@ -60,7 +60,7 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 
 | Project | Tech Stack | Highlights | Link |
 | :--- | :--- | :--- | :---: |
-| **Local-LLM-AI** | `Kotlin` `Jetpack Compose` `LiteRT` | Premium offline Android app running on-device LLMs (Gemma / Qwen). | [⭐ View Repo](https://github.com/PrinceBad/Local-LLM-AI) |
+| **Local-LLM-AI** | `Android` `Jetpack Compose` `LiteRT` | Premium offline Android app running on-device LLMs (Gemma / Qwen). | [⭐ View Repo](https://github.com/PrinceBad/Local-LLM-AI) |
 | **TubeNotes** | `React 19` `Vite` `Express` `jsPDF` | Compiles YouTube lectures into vector-crisp, searchable study guide PDFs. | [🚀 View Repo](https://github.com/PrinceBad/TubeNotes) |
 | **Py-Image-Compressor** | `React` `OffscreenCanvas` `WebP` | Zero-latency batch image compressor with live interactive split-slider. | [🖼️ View Repo](https://github.com/PrinceBad/Py-Image-Compressor) |
 | **HyperOS-Unlock-Script** | `Python` `ADB` `Fastboot` | Zero-dependency automation suite to secure Xiaomi HyperOS bootloader unlock. | [⚡ View Repo](https://github.com/PrinceBad/Hyperos-Unlock-Script) |
@@ -72,7 +72,7 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 
 <p align="center">
   <b>Languages & Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,js,ts,react,nextjs,vite,tailwind,html,css&perline=10&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,vite,tailwind,html,css&perline=8&theme=dark" alt="Languages and Frameworks" />
 </p>
 
 <p align="center">

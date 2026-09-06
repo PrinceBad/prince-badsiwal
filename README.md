@@ -9,10 +9,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/PrinceBad?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/PrinceBad?color=EAB308&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" /></a>
-  <a href="https://github.com/PrinceBad"><img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22C55E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Open to Work" /></a>
-  <a href="mailto:kingofdozen420@gmail.com"><img src="https://img.shields.io/badge/Contact-Get%20in%20Touch-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://badsiwal.my-style.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Website-badsiwal.my--style.in-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
+  </a>
+  <a href="https://github.com/PrinceBad?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/PrinceBad?color=EAB308&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kingofdozen420@gmail.com&su=Hello%20Prince" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-kingofdozen420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
 </p>
+
+<br/>
+
+### 🌐 Live Showcase & Portfolio
+> 🚀 **Explore my interactive portfolio & live demos at [badsiwal.my-style.in](https://badsiwal.my-style.in/)**  
+> *Showcasing custom interactive web architectures, creative agency UI/UX, and high-performance client utilities.*
 
 ---
 
@@ -56,9 +68,16 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceBad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PrinceBad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceBad&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+
+---
+
+### 📬 Get In Touch
+* 🌐 **Live Website**: [badsiwal.my-style.in](https://badsiwal.my-style.in/)
+* 📧 **Direct Email**: [kingofdozen420@gmail.com](mailto:kingofdozen420@gmail.com)
+* 🚀 **Quick Gmail Compose**: [Open New Email in Gmail Web](https://mail.google.com/mail/?view=cm&fs=1&to=kingofdozen420@gmail.com&su=Hello%20Prince)
 
 ---
 

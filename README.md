@@ -15,8 +15,8 @@
   <a href="https://github.com/PrinceBad?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/PrinceBad?color=EAB308&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kingofdozen420@gmail.com&su=Hello%20Prince" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-kingofdozen420%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  <a href="https://badsiwal.my-style.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect-badsiwal.my--style.in-22C55E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Connect" />
   </a>
 </p>
 
@@ -74,10 +74,8 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 
 ---
 
-### 📬 Get In Touch
-* 🌐 **Live Website**: [badsiwal.my-style.in](https://badsiwal.my-style.in/)
-* 📧 **Direct Email**: [kingofdozen420@gmail.com](mailto:kingofdozen420@gmail.com)
-* 🚀 **Quick Gmail Compose**: [Open New Email in Gmail Web](https://mail.google.com/mail/?view=cm&fs=1&to=kingofdozen420@gmail.com&su=Hello%20Prince)
+### 📬 Connect
+* 🌐 **Live Website & Portfolio**: [badsiwal.my-style.in](https://badsiwal.my-style.in/)
 
 ---
 

@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://badsiwal.thsite.top/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Website-badsiwal.thsite.top/-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
+    <img src="https://img.shields.io/badge/Live%20Website-badsiwal.thsite.top-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
   </a>
   <a href="https://linkedin.com/in/prince-badsiwal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prince_Badsiwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

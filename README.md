@@ -15,6 +15,9 @@
   <a href="https://github.com/PrinceBad?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/PrinceBad?color=EAB308&label=Total%20Stars&logo=github&style=for-the-badge" alt="Total Stars" />
   </a>
+  <a href="mailto:princebadsiwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-princebadsiwal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://badsiwal.my-style.in/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-badsiwal.my--style.in-22C55E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Connect" />
   </a>
@@ -76,6 +79,7 @@ I am a **Systems & Full-Stack Developer** passionate about bringing intelligence
 
 ### 📬 Connect
 * 🌐 **Live Website & Portfolio**: [badsiwal.my-style.in](https://badsiwal.my-style.in/)
+* 📧 **Email**: [princebadsiwal@gmail.com](mailto:princebadsiwal@gmail.com)
 
 ---
 

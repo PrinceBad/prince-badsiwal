@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=180&section=header&text=Prince%20Badsiwal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Edge%20AI%20%7C%20Full-Stack%20Web%20%7C%20Systems%20%2B%20DevSecOps&descSize=18&descAlignY=62&descColor=93C5FD" alt="Prince Badsiwal Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=180&section=header&text=Prince%20Badsiwal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Systems%20Administrator%20%2B%20DevSecOps%20%7C%20Python%20Automation%20%2B%20Edge%20AI&descSize=18&descAlignY=62&descColor=93C5FD" alt="Prince Badsiwal Header" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=800&lines=On-Device+AI+%26+Mobile+LLMs+(Google+LiteRT);Full-Stack+Web+Developer+(React+19+%7C+Next.js+16+%7C+Vite);Certified+DevSecOps+%26+AWS+Cloud+Practitioner;Open-Source+Builder+%26+Systems+Explorer" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Systems+Administrator+%26+IT+Specialist+(NIELIT+Batch+Topper);DevSecOps+%26+Cloud+Practitioner+(Kyndryl+Grade+'S');Python+Automation+%26+System+Utilities;Full-Stack+Web+Developer+(React+19+%7C+Next.js+16);Active+Open-Source+Builder+(PyDelhi+%7C+GDG+Noida)" alt="Typing Intro" />
   </a>
 </p>
 
@@ -33,14 +33,15 @@
 
 ### ⚡ About Me
 
-I am a **Systems & Full-Stack Developer** passionate about bringing intelligence to the edge, automating infrastructure, and crafting high-speed, zero-bloat software utilities.
+I am a **Systems Administrator & DevSecOps Practitioner** based in **New Delhi, India**, combining enterprise hardware diagnostics and infrastructure management with modern Python automation and full-stack software engineering.
 
-* 🧠 **On-Device AI & Edge Computing**: Quantized LLM deployment on Android hardware with **Google AI Edge LiteRT** & **Jetpack Compose**.
-* 🌐 **High-Performance Web**: Reactive web engines using **React 19, Next.js 16, Vite, and Vector jsPDF rendering**.
-* 🛡️ **DevSecOps & Cloud Infrastructure**: Certified hands-on AWS infrastructure, CI/CD pipeline automation, and DNS-level network security filtering (**Pi-hole / AdGuard**).
-* 🛠️ **Systems Administration & Forensics**: Managed 50+ client systems maintaining an **~85% First-Contact Resolution (FCR)**; recovered **3+ TB** of corrupted client data.
-* 📱 **Mobile OS & Firmware Labs**: Low-level firmware flashing, FRP recovery, and alternative mobile OS deployments (**PostmarketOS, Ubuntu Touch, Termux**).
-* 🤝 **Active Community Member**: Regular participant at **PyDelhi** and **GDG Noida**.
+* 🖥️ **Systems Administration & IT Support**: NIELIT-certified specialist with extensive hands-on expertise administering Windows 10/11 & Linux (Ubuntu, Kali) environments. Managed 50+ client endpoints maintaining an **~85% First-Contact Resolution (FCR)** rate.
+* 🛡️ **DevSecOps & Cloud Infrastructure**: Certified by **Kyndryl & NIELIT (Grade 'S' | 94/108)** in CI/CD pipeline authoring, AWS cloud infrastructure labs, and DevSecOps security practices.
+* 🐍 **Python Automation & Scripting**: Engineering zero-dependency automation scripts, desktop utilities, and file processing tools that eliminate manual repetition and streamline technical workflows.
+* 🌐 **Network & Endpoint Security**: Hands-on network administration across LAN/WAN/VPN/DNS, Active Directory user/group management, and DNS-level network security filtering (**Pi-hole & AdGuard**).
+* 💾 **Forensic Data Diagnostics**: Successfully recovered **3+ TB** of corrupted and lost client data across enterprise and consumer storage devices.
+* 🧠 **Edge AI & Mobile Labs**: Running offline quantized LLMs on mobile hardware (**Google AI Edge LiteRT**) and experimenting with custom Android firmware and alternative mobile operating systems (**PostmarketOS / Ubuntu Touch / Termux**).
+* 🤝 **Active Community Member**: Regular participant in developer and open-source communities including **PyDelhi** and **GDG Noida**.
 
 ---
 
